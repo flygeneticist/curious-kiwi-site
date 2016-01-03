@@ -1520,7 +1520,7 @@ section * {
   filter: alpha(opacity=80);
 }
 .header-11-sub .bg-about {
-  background-image: url("http://curiouskiwi.co.s3-website-us-east-1.amazonaws.com/img/hong-kong-347299_1920.jpg");
+  background-image: url("http://curiouskiwi.co.s3-website-us-east-1.amazonaws.com/img/brussels-597627_1920.jpg");
   opacity: 80;
   filter: alpha(opacity=8000);
   opacity: 0.8;
@@ -1572,6 +1572,13 @@ section * {
   .logos {
     display: none;
   }
+}
+.main-title {
+  margin-bottom:50px;"
+}
+.first-section {
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 .price-1 {
   padding-top: 80px;
