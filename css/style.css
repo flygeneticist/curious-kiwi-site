@@ -1147,7 +1147,7 @@ section * {
   top: 0;
 }
 /**
- * Price 1 stylesheet
+ * Generic Block content / Offering / Grouping stylesheet
  * */
 .price-1 {
   padding-top: 110px;
@@ -1164,7 +1164,7 @@ section * {
   -moz-border-radius: 4px;
   border-radius: 4px;
   text-align: center;
-  color: #bdc3c7;
+  color: rgba(0,0,0,0.5); /* #bdc3c7 <-- also viable */
   font-size: 18px;
   font-weight: normal;
   min-height: 360px;
@@ -1604,4 +1604,10 @@ section * {
 .lead img {
   width: 40px;
   height: 40px;
+}
+.job-title {
+  color: #16a085;
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 10px;
 }
