@@ -1212,6 +1212,8 @@ section * {
 }
 .logos img {
   margin-right: 15px;
+  max-height: 250px;
+  max-width: 250px;
 }
 @media (max-width: 991px) {
   .price-1 .ribbon {
@@ -1548,8 +1550,16 @@ section * {
 .header-11-sub .additional-links a {
   color: #697172;
 }
+.general {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
 .logos {
   background: #f1f1f1;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.signup {
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -1570,6 +1580,13 @@ section * {
   .logos {
     display: none;
   }
+}
+.general > .container {
+  display: table;
+}
+.general > .container > div {
+  display: table-cell;
+  text-align: center;
 }
 .main-title {
   margin-bottom:50px;"
