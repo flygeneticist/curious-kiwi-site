@@ -1191,6 +1191,7 @@ section * {
 }
 .price-1 .plan .description b {
   font-weight: 500;
+  min-height: 600px;
 }
 .price-1 .plan .btn {
   min-width: 170px;
