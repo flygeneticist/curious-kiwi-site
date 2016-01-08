@@ -1629,3 +1629,11 @@ section * {
   font-weight: 500;
   margin-bottom: 10px;
 }
+.grn {
+  color: #16a085;
+}
+.container-full {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
