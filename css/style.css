@@ -1149,10 +1149,7 @@ section * {
 /**
  * Generic Block content / Offering / Grouping stylesheet
  * */
-.price-1 {
-  padding-top: 110px;
-  padding-bottom: 110px;
-}
+
 .price-1 .plan {
   position: relative;
   -webkit-box-sizing: border-box;
@@ -1596,10 +1593,7 @@ section * {
   margin-top: 80px;
   margin-bottom: 80px;
 }
-.price-1 {
-  padding-top: 80px;
-  padding-bottom: 80px;
-}
+
 .price-1 h3 {
   margin: 0 0 8px;
   font-size: 35px;
