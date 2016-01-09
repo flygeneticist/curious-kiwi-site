@@ -1632,8 +1632,24 @@ section * {
 .grn {
   color: #16a085;
 }
+.red {
+  color: #A01616;
+}
 .container-full {
   text-align: center;
   margin: 0 auto;
   width: 100%;
+}
+td {
+  text-align: center;
+}
+.col-label {
+  text-align: right;
+}
+.col-std,.col-vip {
+  background: #eee;
+}
+.pricing-price,.pricing-symbol {
+  font-weight: bold;
+/*  color: #337AB7;*/
 }
