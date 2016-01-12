@@ -1531,6 +1531,9 @@ section * {
 .header-11-sub .bg-error {
   background-image: url("http://curiouskiwi.co.s3-website-us-east-1.amazonaws.com/img/digital-484402_960_720.jpg");
 }
+.header-11-sub .bg-contact {
+  background-image: url("http://curiouskiwi.co.s3-website-us-east-1.amazonaws.com/img/Comp_sm.jpg");
+}
 @media (max-width: 767px) {
   .header-11-sub .background {
     background: #f6f6f2;
